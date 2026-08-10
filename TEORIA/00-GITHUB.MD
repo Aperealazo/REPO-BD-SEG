@@ -58,7 +58,6 @@ Sube el proyecto a GitHub.
 git status
 git add .
 git commit -m "Descripción de los cambios"
-git push origin main
 ```
 
 > 💡 **Recordá:** cada vez que termines una actividad, realizá un **commit** y subí tu proyecto a GitHub.
