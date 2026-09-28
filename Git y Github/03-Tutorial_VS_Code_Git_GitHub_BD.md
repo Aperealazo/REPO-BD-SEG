@@ -59,7 +59,7 @@ Redacten este apartado de forma breve y con sus propias palabras.
 
 ## Entrega
 
-**Suban el archivo de video mediante el enlace de entrega proporcionado por el docente.** En esa misma entrega incluyan el enlace al repositorio de GitHub. Antes de enviarlo, comprueben que el repositorio se puede abrir y que el video se reproduce correctamente.
+**Suban el archivo de video mediante el enlace de entrega que ya venimos usando, "02-Entregas".** En esa misma entrega incluyan el enlace al repositorio de GitHub(En un docs). Antes de enviarlo, comprueben que el repositorio se puede abrir y que el video se reproduce correctamente.
 
 No se reemplaza el video por un enlace al tutorial de otra persona: el archivo entregado debe contener **su propia grabación de pantalla con audio explicativo**.
 
@@ -74,4 +74,4 @@ No se reemplaza el video por un enlace al tutorial de otra persona: el archivo e
 | `README.md` con el apartado «Cómo hicimos el tutorial», herramientas y fuentes consultadas | 1 |
 | **Total** | **10** |
 
-**Punto adicional (opcional):** pueden sumar **hasta 1 punto**, sin superar la nota máxima de **10**, si incorporan cámara de forma clara y útil durante la explicación. La cámara no es necesaria para obtener 10 puntos con los criterios obligatorios.
+**Punto adicional (opcional):** pueden sumar **hasta 1 punto**, sin superar la nota máxima de **10**, si incorporan cámara de forma clara y útil durante la explicación. La cámara no es necesaria para obtener 10 puntos con los criterios obligatorios,pero suma puntos que pueden llegar a necesitar en algun momento de su vida jee,.
