@@ -11,7 +11,7 @@ Abrí la plantilla desde este enlace:
 1. Ingresá al documento con tu cuenta de Google.
 2. Creá una copia desde **Archivo → Hacer una copia**. No trabajes sobre la plantilla original.
 3. Cambiá el nombre de la copia. Usá este formato: **Sistema de Inscripción C.E.N. — Curso — Nombre del equipo**.
-4. Compartí la copia con **aperealazobd@gmail.com** y asignale permiso de **Lector**.
+4. Compartí la copia con **aperealazobd@gmail.com** y asignale permiso de **Editor**.
 5. Si trabajan en equipo, solo me envian un solo documento.
 
 ## Cómo completar la documentación
