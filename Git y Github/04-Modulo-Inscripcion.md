@@ -16,6 +16,7 @@ Avancen paso a paso y prueben el funcionamiento del login.
 
 **Video tutorial:** [Ver en YouTube](https://youtu.be/v8wMvsdzNHw)
 
+**Capturas de referencia para el desarrollo de la ficha de inscripción:** [Ver en Google Drive](https://drive.google.com/file/d/1abteokxwr-udD0PKWCEhT6Sy_7pY4qTV/view?usp=sharing)
 ### 3. Entrega del proyecto
 
 Deberán **subir el proyecto a un repositorio de GitHub utilizando Git**, tal como lo hicieron en la **Actividad 2**.
